@@ -1,6 +1,13 @@
 <!-- Paste this file as README.md in a PUBLIC repo named exactly: R1DEW (github.com/R1DEW/R1DEW) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Rohan%20Singh&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%2FML&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rohan Singh banner" />
+<div align="center">
+
+# Rohan Singh
+### Software Developer · Java & Spring Boot · AI/ML
+
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header)
 
 <div align="center">
 
