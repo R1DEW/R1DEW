@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **MCA** at **Chandigarh University** (2024 – 2026) &nbsp;|&nbsp; **BCA** from **BIT Mesra** (2021 – 2024)
+- 🎓 **MCA** at **Chandigarh University** (2024 – 2026) &nbsp;|&nbsp; **BCA** from **BIT Mesra** (2021 – 2024)
 - ☕ I enjoy building **backend-driven, database-backed applications** with Java and Spring Boot
 - 🤖 Growing my skills in **AI / Machine Learning** and **computer vision** with Python and OpenCV
 - 🔐 Certified in **AWS Cloud Practitioner Foundations**, **AWS Generative AI Foundations** and **Google Cybersecurity**
